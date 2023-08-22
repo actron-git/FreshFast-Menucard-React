@@ -30,15 +30,15 @@ Start the development server:
 ### 'npm start'
 
 
-dynamic-menu-app/
-│
-├── src/
-│   ├── components/
-│   │   ├── Navbar.js
-│   │   ├── MenuList.js
-│   │   └── ...
-│   │
-│   ├── hooks/
+dynamic-menu-app/<br>
+│<br>
+├── src/<br>
+│   ├── components/<br>
+│   │   ├── Navbar.js<br>
+│   │   ├── MenuList.js<br>
+│   │   └── ...<br>
+│   │<br>
+│   ├── hooks/<br>
 │   │   ├── useMenuData.js
 │   │   └── ...
 │   │
