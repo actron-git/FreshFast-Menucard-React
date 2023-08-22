@@ -28,3 +28,48 @@ Install the dependencies:
 Start the development server:
 
 ### 'npm start'
+
+
+dynamic-menu-app/
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── MenuList.js
+│   │   └── ...
+│   │
+│   ├── hooks/
+│   │   ├── useMenuData.js
+│   │   └── ...
+│   │
+│   ├── services/
+│   │   ├── menuApi.js
+│   │   └── ...
+│   │
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+│
+├── public/
+├── package.json
+├── README.md
+└── ...
+
+
+Components
+Navbar.js: Displays the dynamic navigation bar based on available menu categories.
+MenuList.js: Renders the list of menu items within a specific category.
+...
+Hooks
+useMenuData.js: Custom hook for fetching menu data from the API.
+...
+Services
+menuApi.js: Module for interacting with the custom API to fetch menu data.
+Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
+
+Remember to replace `<repository_url>` with the actual URL of your project's repository. This template provides a basic structure for your `README.md` file. You can further customize it with specific installation instructions, usage guidelines, and any additional features you might add to your app.
