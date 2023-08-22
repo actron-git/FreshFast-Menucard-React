@@ -72,4 +72,4 @@ License
 This project is licensed under the MIT License.
 
 
-Remember to replace `<repository_url>` with the actual URL of your project's repository. This template provides a basic structure for your `README.md` file. You can further customize it with specific installation instructions, usage guidelines, and any additional features you might add to your app.
+Remember to replace `<https://github.com/thecamron/MenuCard-Reactjs>` with the actual URL of your project's repository. This template provides a basic structure for your `README.md` file. You can further customize it with specific installation instructions, usage guidelines, and any additional features you might add to your app.
