@@ -39,22 +39,22 @@ dynamic-menu-app/<br>
 │   │   └── ...<br>
 │   │<br>
 │   ├── hooks/<br>
-│   │   ├── useMenuData.js
-│   │   └── ...
-│   │
-│   ├── services/
-│   │   ├── menuApi.js
-│   │   └── ...
-│   │
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-│
-├── public/
-├── package.json
-├── README.md
-└── ...
-
+│   │   ├── useMenuData.js<br>
+│   │   └── ...<br>
+│   │<br>
+│   ├── services/<br>
+│   │   ├── menuApi.js<br>
+│   │   └── ...<br>
+│   │<br>
+│   ├── App.js<br>
+│   ├── index.js<br>
+│   └── ...<br>
+│<br>
+├── public/<br>
+├── package.json<br>
+├── README.md<br>
+└── ...<br>
+<br>
 
 Components
 Navbar.js: Displays the dynamic navigation bar based on available menu categories.
