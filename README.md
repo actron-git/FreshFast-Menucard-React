@@ -68,8 +68,4 @@ menuApi.js: Module for interacting with the custom API to fetch menu data.
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
-
-
-Remember to replace `<https://github.com/thecamron/MenuCard-Reactjs>` with the actual URL of your project's repository. This template provides a basic structure for your `README.md` file. You can further customize it with specific installation instructions, usage guidelines, and any additional features you might add to your app.
+Thank You
